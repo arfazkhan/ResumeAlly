@@ -1,3 +1,3 @@
-# buildspace 
+# ResumeAlly 
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+ResumeAlly is a tool that could assist job seekers in crafting resumes that are optimized for ATS. The tool could work by analyzing a job description and identifying relevant skills, experiences, and keywords that the employer is looking for.
